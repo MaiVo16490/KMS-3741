@@ -1,0 +1,16 @@
+{
+    "user1": {
+        "username": "standard_user",
+        "password": "secret_sauce",
+        "firstName": "Mary",
+        "lastName": "Rose",
+        "zipCode": "123456"
+    },
+    "user2": {
+        "username": "visual_user",
+        "password": "secret_sauce",
+        "firstName": "Clerk",
+        "lastName": "Geoge",
+        "zipCode": "123456"
+    }
+}
