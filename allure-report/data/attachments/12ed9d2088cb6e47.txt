@@ -1,0 +1,10 @@
+Step 1: Logging in with username: standard_user
+Step 2: Adding Product 1: Sauce Labs Backpack to the cart
+Step 3: Adding Product 2: Sauce Labs Bike Light to the cart
+Step 4: Verified that products are added successfully
+- Product 1: Sauce Labs Backpack
+- Product 2: Sauce Labs Bike Light
+Step 5: Entering checkout information with firstName: standard_user, lastName: Rose, zipCode: 123456
+Step 6: Verifying the total price and clicking the finish button
+Step 7: Verifying that the order completion message is displayed
+Test case completed successfully for user: standard_user
